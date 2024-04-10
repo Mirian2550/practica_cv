@@ -1,1 +1,3 @@
-# practica_cv
+# Práctica Computer Vision - TUIA
+
+Yañez, Mirian
