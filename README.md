@@ -1,3 +1,3 @@
-# Práctica Computer Vision - TUIA
+# Práctica Visión por Computadora - TUIA
 
 Yañez, Mirian
